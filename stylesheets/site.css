@@ -4,6 +4,11 @@
 body {
   background: #EB9359; }
 
+.black-row {
+  background: black;
+  height: 20px;
+  width: 100px; }
+
 img.portrait {
   max-width: 100%; }
 
