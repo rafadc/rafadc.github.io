@@ -6,8 +6,7 @@ body {
 
 .black-row {
   background: black;
-  height: 20px;
-  width: 100px; }
+  height: 20px; }
 
 img.portrait {
   max-width: 100%; }
@@ -31,5 +30,5 @@ a {
 a:visited {
   color: black; }
 
-a:hover {
+a:hover a:visited:hover {
   color: grey; }
